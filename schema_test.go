@@ -3,7 +3,7 @@ package gqlparser
 import (
 	"testing"
 
-	"github.com/vektah/gqlparser/spec"
+	"github.com/matthewmueller/gqlparser/spec"
 )
 
 func TestSchemaDocument(t *testing.T) {

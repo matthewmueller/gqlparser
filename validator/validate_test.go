@@ -5,9 +5,9 @@ import (
 	"io/ioutil"
 	"testing"
 
+	"github.com/matthewmueller/gqlparser"
+	"github.com/matthewmueller/gqlparser/errors"
 	"github.com/stretchr/testify/require"
-	"github.com/vektah/gqlparser"
-	"github.com/vektah/gqlparser/errors"
 	yaml "gopkg.in/yaml.v2"
 )
 

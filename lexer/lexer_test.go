@@ -3,7 +3,7 @@ package lexer
 import (
 	"testing"
 
-	"github.com/vektah/gqlparser/spec"
+	"github.com/matthewmueller/gqlparser/spec"
 )
 
 func TestLexer(t *testing.T) {

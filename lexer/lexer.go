@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"unicode/utf8"
 
-	"github.com/vektah/gqlparser/errors"
+	"github.com/matthewmueller/gqlparser/errors"
 )
 
 // Lexer turns graphql request and schema strings into tokens

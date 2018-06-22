@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/vektah/gqlparser"
-	"github.com/vektah/gqlparser/errors"
+	"github.com/matthewmueller/gqlparser"
+	"github.com/matthewmueller/gqlparser/errors"
 )
 
 func init() {

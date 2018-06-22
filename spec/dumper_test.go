@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/andreyvit/diff"
+	"github.com/matthewmueller/gqlparser"
 	"github.com/stretchr/testify/require"
-	"github.com/vektah/gqlparser"
 )
 
 func TestDump(t *testing.T) {

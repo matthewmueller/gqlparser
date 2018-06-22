@@ -3,8 +3,8 @@ package gqlparser
 import (
 	"testing"
 
+	"github.com/matthewmueller/gqlparser/lexer"
 	"github.com/stretchr/testify/require"
-	"github.com/vektah/gqlparser/lexer"
 )
 
 func TestParserUtils(t *testing.T) {

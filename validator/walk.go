@@ -3,8 +3,8 @@ package validator
 import (
 	"fmt"
 
-	"github.com/vektah/gqlparser"
-	"github.com/vektah/gqlparser/errors"
+	"github.com/matthewmueller/gqlparser"
+	"github.com/matthewmueller/gqlparser/errors"
 )
 
 var fieldVisitors []func(vctx *vctx, parentDef *gqlparser.Definition, fieldDef *gqlparser.FieldDefinition, field *gqlparser.Field)
